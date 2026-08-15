@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T01:42:18Z",
+            "last_commit": "2026-08-15T05:03:03Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9303
+            "stars": 9308
           }
         },
         {
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T01:42:18Z",
+            "last_commit": "2026-08-15T05:03:03Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9303
+            "stars": 9308
           }
         }
       ],
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:48:27.288Z",
+    "last_updated": "2026-08-15T05:46:09.405Z",
     "original_repository": "EthanYolo01/Awesome-OpenClaw",
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw",
