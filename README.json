@@ -144,7 +144,7 @@
             "last_commit": "2026-08-15T05:03:03Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9314
+            "stars": 9319
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-15T05:03:03Z",
             "owner": "openclaw",
             "repo": "clawhub",
-            "stars": 9314
+            "stars": 9319
           }
         }
       ],
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:48:40.526Z",
+    "last_updated": "2026-08-17T05:54:39.551Z",
     "original_repository": "EthanYolo01/Awesome-OpenClaw",
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw",
