@@ -1,438 +1,96 @@
 {
   "items": [
     {
-      "description": "Understanding OpenClaw's history explains its current architecture and community dynamics.",
-      "items": [],
-      "title": "⏳ Timeline & Milestones"
-    },
-    {
-      "description": "Monorepo package map:",
-      "items": [],
-      "title": "🏠 Official Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "⚡ Getting Started & Installation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Quick Install"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Docker (Recommended for Production)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Release Channels"
-    },
-    {
-      "description": "Five concepts unlock the entire ecosystem:",
-      "items": [],
-      "title": "🧠 Core Architecture"
-    },
-    {
-      "description": "A WebSocket server (port 18789) that is the single orchestration point. It normalizes heterogeneous messaging protocols — WhatsApp via Baileys, Telegram via grammY, Slack Events API, Discord gateway — into a canonical internal message format. No intelligence lives here. It is a pure traffic controller.",
-      "items": [],
-      "title": "1. The Gateway"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2. Skills vs Plugins vs MCP"
-    },
-    {
-      "description": "OpenClaw uses filesystem-as-truth memory — no vector database required by default.",
-      "items": [],
-      "title": "3. Memory Architecture"
-    },
-    {
-      "description": "When approaching token limits, OpenClaw triggers session compaction — summarizing oldest turns while preserving tool call-result pairs. Sessions reset at configurable boundaries (default: 4 AM UTC). Result: effectively unlimited conversation length.",
-      "items": [],
-      "title": "4. Context Engineering"
-    },
-    {
-      "description": "Each connected messaging platform is a channel with its own context namespace. Skills can be scoped per channel using in the skill manifest. Run 10+ channels simultaneously with per-channel permission sets.",
-      "items": [],
-      "title": "5. Channel Isolation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🤖 LLM Model Selection Guide"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Model Comparison at a Glance"
-    },
-    {
-      "description": "Personal productivity agent (email, calendar, tasks): → Claude Sonnet 4 as primary. Claude Haiku 4 for simple reminders and quick lookups. Route with ClawRouter.\nSoftware development assistant: → GPT-5 or Claude Sonnet 4. Both excel at code. GPT-5 slightly stronger on large refactors; Sonnet 4 more reliable on multi-step tool chains.\nResearch and document processing: → Gemini 2.5 Pro for its 1M token context window. Process entire codebases or large PDFs without chunking.\nPrivacy-first / air-gapped deployment: → Llama 4 Scout (16GB VRAM) or Qwen3-14B (8GB VRAM) via Ollama. No data leaves your machine.\nCost-optimized high-volume: → Gemini 2.5 Flash or Claude Haiku 4. Use ClawRouter to auto-route cheap tasks to these and expensive tasks to Sonnet/GPT-5.",
-      "items": [],
-      "title": "Recommendation by Use Case"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Configuring Multiple Models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Local Model Setup with Ollama"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "💰 Cost Estimation Guide"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "API Cost by Provider (March 2026 Pricing)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Monthly Cost Estimates by Usage Profile"
-    },
-    {
-      "description": "1. Use ClawRouter for intelligent routing (40–60% savings)\n2. Context window hygiene\n3. Scope skills narrowly Skills with broad triggers () consume more tokens evaluating whether to activate. Narrow trigger conditions = fewer wasted tokens.\n4. Use local models for bulk tasks Run Ollama locally for high-volume, lower-complexity tasks (email sorting, routine summaries). Zero marginal API cost.",
-      "items": [],
-      "title": "Cost Optimization Strategies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Total Cost of Ownership: Self-Hosted vs Managed"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SKILL.md Format Specification",
+              "description": "frontmatter fields, env var declarations, binary dependencies, install spec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127248221,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:16:56Z",
+                "owner": "openclaw",
+                "repo": "clawhub",
+                "stars": 9329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClawHub CLI Publishing Tool",
+              "description": ", , versioning, soft-delete/restore",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127248221,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:16:56Z",
+                "owner": "openclaw",
+                "repo": "clawhub",
+                "stars": 9329
+              }
+            }
+          ],
+          "description": "A skill is a file. Minimum viable skill:\nSkill authoring resources:",
+          "node_type": "group",
+          "title": "Building Your Own Skills"
+        }
+      ],
       "title": "🔧 Skills & Plugins"
     },
     {
-      "description": "clawhub.ai — The official marketplace. 13,729 community-built skills as of March 2026.",
-      "items": [],
-      "title": "Official Skill Registry (ClawHub)"
-    },
-    {
-      "description": "🛡️ Install This First:\nProductivity Core:\nDevelopment:\nResearch & Data:",
-      "items": [],
-      "title": "Curated \"Must-Have\" Skills"
-    },
-    {
-      "description": "For the full categorized index of 5,400+ vetted skills: ➡️ VoltAgent/awesome-openclaw-skills — 1M+ monthly views, the #1 community skills resource.",
-      "items": [],
-      "title": "Skills by Category"
-    },
-    {
-      "description": "A skill is a file. Minimum viable skill:\nSkill authoring resources:",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "SKILL.md Format Specification",
-          "description": "frontmatter fields, env var declarations, binary dependencies, install spec",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:38:13Z",
-            "owner": "openclaw",
-            "repo": "clawhub",
-            "stars": 9327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClawHub CLI Publishing Tool",
-          "description": ", , versioning, soft-delete/restore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T05:38:13Z",
-            "owner": "openclaw",
-            "repo": "clawhub",
-            "stars": 9327
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hesamsheikh/awesome-openclaw-usecases",
+              "description": "The definitive use case collection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153093670,
+                "language": null,
+                "last_commit": "2026-03-24T14:54:56Z",
+                "owner": "hesamsheikh",
+                "repo": "awesome-openclaw-usecases",
+                "stars": 31662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LAMBDASOFT-org/awesome-openclaw-ecosystem",
+              "description": "Agent-native platform showcases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149769628,
+                "language": null,
+                "last_commit": "2026-04-07T11:03:42Z",
+                "owner": "lambdasoft-org",
+                "repo": "awesome-openclaw-ecosystem",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "Personal Productivity:\nSoftware Development:\nBusiness Operations:\nResearch & Data:\nShowcase Collections:",
+          "node_type": "group",
+          "title": "By Domain"
         }
       ],
-      "title": "Building Your Own Skills"
-    },
-    {
-      "description": "MCP (Model Context Protocol, originally by Anthropic) is the dominant architecture for new professional-grade OpenClaw skills. MCP servers run as independent processes, offering better isolation and language-agnosticism.",
-      "items": [],
-      "title": "🤖 MCP Integrations"
-    },
-    {
-      "description": "Browse 13,000+ MCP servers at mcp.so or the official MCP server directory.",
-      "items": [],
-      "title": "Notable MCP Servers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🖥️ UIs & Companion Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Web UIs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Desktop Apps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mobile"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "☁️ Deployment & Infrastructure"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Managed Hosting"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Self-Hosted: Docker Compose"
-    },
-    {
-      "description": "See nix-openclaw for the community NixOS module.",
-      "items": [],
-      "title": "Self-Hosted: NixOS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "VPS Price Comparison"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Homelab & Edge"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏢 Enterprise Deployment"
-    },
-    {
-      "description": "Single Sign-On (SSO):",
-      "items": [],
-      "title": "Authentication & Access Control"
-    },
-    {
-      "description": "OpenClaw does not have native multi-tenancy. Enterprise teams use one of three patterns:\nPattern A — One instance per team/user (Recommended)\nComplete isolation. Simple. Works with Ansible or Docker Compose per user.\nPattern B — Shared instance, per-channel isolation One Gateway, multiple channels, channel-scoped skills and permissions. Lower cost; shared memory is a risk.\nPattern C — ClawTeam managed multi-tenancy ClawTeam handles auth, routing, and billing. Best for teams >10 people who don't want to manage infra.",
-      "items": [],
-      "title": "Multi-Tenancy Patterns"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Compliance & Auditing"
-    },
-    {
-      "description": "The skill automates this on a schedule and optionally uploads to S3, Backblaze B2, or any S3-compatible provider.",
-      "items": [],
-      "title": "Disaster Recovery"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🧠 Memory & Knowledge Systems"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Built-in Memory Files"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "External Memory Integrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔒 Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Known CVEs & Incidents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Essential Security Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Security Tools"
-    },
-    {
-      "description": "Never expose port 18789 directly. Always use a reverse proxy with authentication:",
-      "items": [],
-      "title": "Secure Deployment: Nginx Reverse Proxy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🆚 OpenClaw vs Other Agent Frameworks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Comparison Matrix"
-    },
-    {
-      "description": "The most common comparison. Key difference: AutoGen is designed for multi-agent systems where agents collaborate in code. OpenClaw is designed for single-agent productivity with a rich skill ecosystem. If you want an AI assistant that takes actions on your behalf via chat, OpenClaw wins. If you want agents collaborating to solve complex research problems, AutoGen wins.",
-      "items": [],
-      "title": "OpenClaw vs AutoGen"
-    },
-    {
-      "description": "n8n is a visual workflow automation tool for non-technical users. OpenClaw is a conversational agent for power users. They're complementary: many users run n8n for scheduled workflows and OpenClaw for on-demand conversational tasks. The skill bridges the two.",
-      "items": [],
-      "title": "OpenClaw vs n8n"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌍 Ecosystem & Agent Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agent Social & Collaboration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Agent-to-Agent (A2A)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🛠️ Developer Tooling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Deployment & Management"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Development & Testing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Monitoring & Observability"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Cost Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🏗️ Alternative Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Decision Matrix"
-    },
-    {
-      "description": "OpenClaw — Reference implementation. Choose when: you want the largest skill ecosystem and accept the resource tradeoffs as the cost of maturity.\nNanoClaw — Python, mandatory container isolation, ~700 lines (auditable in an afternoon). Choose when: security and auditability matter more than skill count. Regulated environments.\nZeroClaw — Rust, 3.4MB binary, <10ms startup, 7.8MB RAM (194× smaller than OC), direct OpenClaw config import, 22+ providers. Choose when: resource efficiency matters, or you want a migration path from OpenClaw.\nMoltis — A trusted Rust-native Claw. One binary — sandboxed, secure, auditable. Built-in voice, memory, MCP tools and multi-channel access. Choose when: your team needs a trustworthy enterprise-grade Rust implementation.\nPicoClaw — Go, <10MB RAM, 1-second startup, targets $10 RISC-V hardware. Choose when: IoT, home automation, embedded Linux, cheapest possible hardware.\nNanobot — Python, ~4,000 lines, maximum readability, MCP-only tools. Choose when: learning agent internals, prototyping architectures, academic research.\nNullClaw — Zig, 1MB RAM, 678KB binary. Choose when: absolute minimal footprint, microcontroller-adjacent.",
-      "items": [],
-      "title": "Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📖 Tutorials, Blogs & Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🎥 Videos & Talks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📚 Research & Academic Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Key Papers"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "💼 Use Cases & Showcases"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "❓ FAQ & Troubleshooting"
-    },
-    {
-      "description": "Q: What are the minimum hardware requirements? A: Node.js 20+ for OpenClaw core. Minimum 1GB RAM (2GB recommended for comfortable operation with several skills). Any modern 64-bit OS. For local models via Ollama: 8GB VRAM minimum; 16GB recommended.\nQ: What's the difference between and ? A: is a one-time interactive wizard that sets up your config, connects your first channel, and installs essential skills. just starts the gateway with existing config. Always run first.\nQ: Do I need a paid API key to get started? A: No. You can run fully locally using Ollama + an open-source model (Llama 4, Qwen3). The experience is less capable but costs nothing. Most users start with a Claude or OpenAI API key for the best out-of-the-box quality.",
-      "items": [],
-      "title": "Installation & Setup"
-    },
-    {
-      "description": "Q: How do I safely update OpenClaw?\nQ: How do I migrate from OpenClaw to ZeroClaw? ZeroClaw supports direct config import:",
-      "items": [],
-      "title": "Updates & Migrations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🤝 Community & Support"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Official Channels"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Key People to Follow"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Newsletters"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🗺️ Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:51:04.600Z",
+    "last_updated": "2026-08-19T12:09:35.016Z",
     "original_repository": "EthanYolo01/Awesome-OpenClaw",
+    "original_repository_id": 1185814933,
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw",
     "enhanced_repository_description": null,
