@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T05:35:53Z",
+                "last_commit": "2026-08-21T21:12:41Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9332
+                "stars": 9331
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T05:35:53Z",
+                "last_commit": "2026-08-21T21:12:41Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9332
+                "stars": 9331
               }
             }
           ],
@@ -60,7 +60,7 @@
                 "last_commit": "2026-03-24T14:54:56Z",
                 "owner": "hesamsheikh",
                 "repo": "awesome-openclaw-usecases",
-                "stars": 31663
+                "stars": 31670
               }
             },
             {
@@ -88,7 +88,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:52:28.183Z",
+    "last_updated": "2026-08-22T05:47:43.152Z",
     "original_repository": "EthanYolo01/Awesome-OpenClaw",
     "original_repository_id": 1185814933,
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
