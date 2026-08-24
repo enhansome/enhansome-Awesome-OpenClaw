@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "description": "Monorepo package map:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "openclaw/openclaw",
+          "description": "Main repository — TypeScript monorepo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103012935,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:53Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 387333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClaw Changelog",
+          "description": "Release notes and version history",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103012935,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:34:53Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 387333
+          }
+        }
+      ],
+      "title": "🏠 Official Resources"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -14,10 +50,10 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:43:56Z",
+                "last_commit": "2026-08-24T07:27:19Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9344
+                "stars": 9345
               }
             },
             {
@@ -29,10 +65,10 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T05:43:56Z",
+                "last_commit": "2026-08-24T07:27:19Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9344
+                "stars": 9345
               }
             }
           ],
@@ -42,6 +78,662 @@
         }
       ],
       "title": "🔧 Skills & Plugins"
+    },
+    {
+      "description": "MCP (Model Context Protocol, originally by Anthropic) is the dominant architecture for new professional-grade OpenClaw skills. MCP servers run as independent processes, offering better isolation and language-agnosticism.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "playwright-mcp",
+              "description": "Browser Most-used MCP in OpenClaw; full browser automation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952688112,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T22:46:04Z",
+                "owner": "microsoft",
+                "repo": "playwright-mcp",
+                "stars": 36423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "github-mcp",
+              "description": "DevOps Official GitHub MCP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 942771284,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:26:46Z",
+                "owner": "github",
+                "repo": "github-mcp-server",
+                "stars": 32466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "filesystem-mcp",
+              "description": "System Read/write files with explicit path control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890668799,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T01:12:36Z",
+                "owner": "modelcontextprotocol",
+                "repo": "servers",
+                "stars": 89830
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "memory-mcp",
+              "description": "Memory Knowledge graph memory",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1017108665,
+                "language": "TypeScript",
+                "last_commit": "2025-12-10T04:24:04Z",
+                "owner": "JamesANZ",
+                "repo": "memory-mcp",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brave-search-mcp",
+              "description": "Search Web search via Brave API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001041900,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T16:12:05Z",
+                "owner": "brave",
+                "repo": "brave-search-mcp-server",
+                "stars": 1400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fetch-mcp",
+              "description": "HTTP Web fetching and scraping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905004409,
+                "language": "TypeScript",
+                "last_commit": "2026-03-12T17:17:24Z",
+                "owner": "zcaceres",
+                "repo": "fetch-mcp",
+                "stars": 814
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "postgres-mcp",
+              "description": "Database Read-only PostgreSQL access",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954215474,
+                "language": "Python",
+                "last_commit": "2026-08-17T05:06:35Z",
+                "owner": "crystaldba",
+                "repo": "postgres-mcp",
+                "stars": 3214
+              }
+            }
+          ],
+          "description": "Browse 13,000+ MCP servers at mcp.so or the official MCP server directory.",
+          "node_type": "group",
+          "title": "Notable MCP Servers"
+        }
+      ],
+      "title": "🤖 MCP Integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openclaw-studio",
+              "description": "Full-featured web dashboard Skill management, memory viewer, cost analytics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1144540234,
+                "language": "TypeScript",
+                "last_commit": "2026-06-26T00:06:05Z",
+                "owner": "grp06",
+                "repo": "openclaw-studio",
+                "stars": 2033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vibeclaw",
+              "description": "Browser-native interface — no local install Test skills before production deploy",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158187733,
+                "language": "TypeScript",
+                "last_commit": "2026-04-21T13:07:50Z",
+                "owner": "jasonkneen",
+                "repo": "vibeclaw",
+                "stars": 135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web UIs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw Manager",
+              "description": "macOS / Windows Desktop chat interface with visual file management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147071593,
+                "language": "TypeScript",
+                "last_commit": "2026-03-27T02:52:34Z",
+                "owner": "miaoxworld",
+                "repo": "openclaw-manager",
+                "stars": 1704
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenClaw Windows Hub",
+              "description": "Windows Windows companion suite for OpenClaw (AI personal assistant)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1144728715,
+                "language": "C#",
+                "last_commit": "2026-08-24T06:09:38Z",
+                "owner": "openclaw",
+                "repo": "openclaw-windows-node",
+                "stars": 2066
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop Apps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw Android Node",
+              "description": "Android Official Android platform docs; community APK build at openclaw-android-node-apk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168177865,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:12:10Z",
+                "owner": "bighamx",
+                "repo": "openclaw-android-node-apk",
+                "stars": 56
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile"
+        }
+      ],
+      "title": "🖥️ UIs & Companion Apps"
+    },
+    {
+      "description": "For teams and organizations with compliance, multi-tenancy, and governance requirements.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SecureClaw",
+              "description": "55-point security audit; OWASP ASI + MITRE ATLAS mappings OWASP ASI Top 10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154405739,
+                "language": "TypeScript",
+                "last_commit": "2026-04-12T16:40:46Z",
+                "owner": "adversa-ai",
+                "repo": "secureclaw",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NemoClaw",
+              "description": "NVIDIA-sandboxed build; GPU-accelerated, fully isolated Air-gap ready",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182547092,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:32:19Z",
+                "owner": "NVIDIA",
+                "repo": "NemoClaw",
+                "stars": 22261
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compliance & Auditing"
+        }
+      ],
+      "title": "🏢 Enterprise Deployment"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graphiti",
+              "description": "Temporal knowledge graph memory Complex relational knowledge over time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840056306,
+                "language": "Python",
+                "last_commit": "2026-08-21T01:52:20Z",
+                "owner": "getzep",
+                "repo": "graphiti",
+                "stars": 30256
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemOS",
+              "description": "Hierarchical memory OS for LLM agents Research-grade memory architecture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014729376,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T12:57:24Z",
+                "owner": "MemTensor",
+                "repo": "MemOS",
+                "stars": 10950
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mem0",
+              "description": "Self-improving personalized memory Personalization-heavy workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:19:37Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63949
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "External Memory Integrations"
+        }
+      ],
+      "title": "🧠 Memory & Knowledge Systems"
+    },
+    {
+      "description": "This section exists because no other Awesome OpenClaw list treats security seriously enough. OpenClaw runs with broad system access. Security is not optional.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SecureClaw",
+                  "description": "by Adversa AI:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1154405739,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-12T16:40:46Z",
+                    "owner": "adversa-ai",
+                    "repo": "secureclaw",
+                    "stars": 349
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SecureClaw (Install First)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Essential Security Tools"
+        }
+      ],
+      "title": "🔒 Security"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A2A Protocol Spec",
+              "description": "Open agent interoperability protocol, initiated by Google",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 954873280,
+                "language": "Shell",
+                "last_commit": "2026-08-21T19:46:58Z",
+                "owner": "a2aproject",
+                "repo": "A2A",
+                "stars": 25479
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent-to-Agent (A2A)"
+        }
+      ],
+      "title": "🌍 Ecosystem & Agent Platforms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openclaw-ansible",
+              "description": "Official automated install with Tailscale VPN, UFW firewall and Docker security hardening",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1130539840,
+                "language": "Shell",
+                "last_commit": "2026-08-21T06:20:36Z",
+                "owner": "openclaw",
+                "repo": "openclaw-ansible",
+                "stars": 598
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment & Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vibeclaw",
+              "description": "Browser-based sandbox — test without touching production",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158187733,
+                "language": "TypeScript",
+                "last_commit": "2026-04-21T13:07:50Z",
+                "owner": "jasonkneen",
+                "repo": "vibeclaw",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClawHub CLI",
+              "description": "Official publishing tool: , , versioning, soft-delete/restore",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127248221,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T07:27:19Z",
+                "owner": "openclaw",
+                "repo": "clawhub",
+                "stars": 9345
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development & Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openclaw-dashboard",
+              "description": "Secure real-time monitoring dashboard with authentication, TOTP MFA, cost tracking, live data streaming and memory browser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1154317705,
+                "language": "HTML",
+                "last_commit": "2026-03-17T10:49:12Z",
+                "owner": "tugcantopaloglu",
+                "repo": "openclaw-dashboard",
+                "stars": 699
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring & Observability"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ClawRouter",
+              "description": "Agent-native LLM router supporting 41+ models, sub-1ms routing latency, USDC payments via x402 on Base and Solana",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149071982,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T04:51:17Z",
+                "owner": "BlockRunAI",
+                "repo": "ClawRouter",
+                "stars": 6565
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cost Optimization"
+        }
+      ],
+      "title": "🛠️ Developer Tooling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenClaw",
+              "description": "Reference implementation. Choose when: you want the largest skill ecosystem and accept the resource tradeoffs as the cost of maturity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103012935,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:34:53Z",
+                "owner": "openclaw",
+                "repo": "openclaw",
+                "stars": 387333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NanoClaw",
+              "description": "Python, mandatory container isolation, ~700 lines (auditable in an afternoon). Choose when: security and auditability matter more than skill count. Regulated environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1146738089,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T11:56:29Z",
+                "owner": "nanocoai",
+                "repo": "nanoclaw",
+                "stars": 30609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroClaw",
+              "description": "Rust, 3.4MB binary, <10ms startup, 7.8MB RAM (194× smaller than OC), direct OpenClaw config import, 22+ providers. Choose when: resource efficiency matters, or you want a migration path from OpenClaw.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1156956890,
+                "language": "Rust",
+                "last_commit": "2026-08-24T10:47:00Z",
+                "owner": "zeroclaw-labs",
+                "repo": "zeroclaw",
+                "stars": 32644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moltis",
+              "description": "A trusted Rust-native Claw. One binary — sandboxed, secure, auditable. Built-in voice, memory, MCP tools and multi-channel access. Choose when: your team needs a trustworthy enterprise-grade Rust implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1145420469,
+                "language": "Rust",
+                "last_commit": "2026-08-24T12:07:56Z",
+                "owner": "moltis-org",
+                "repo": "moltis",
+                "stars": 2834
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PicoClaw",
+              "description": "Go, <10MB RAM, 1-second startup, targets $10 RISC-V hardware. Choose when: IoT, home automation, embedded Linux, cheapest possible hardware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149707767,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:17:33Z",
+                "owner": "sipeed",
+                "repo": "picoclaw",
+                "stars": 29910
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nanobot",
+              "description": "Python, ~4,000 lines, maximum readability, MCP-only tools. Choose when: learning agent internals, prototyping architectures, academic research.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1147094660,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:32:44Z",
+                "owner": "HKUDS",
+                "repo": "nanobot",
+                "stars": 47345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NullClaw",
+              "description": "Zig, 1MB RAM, 678KB binary. Choose when: absolute minimal footprint, microcontroller-adjacent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1159542259,
+                "language": "Zig",
+                "last_commit": "2026-07-19T04:20:06Z",
+                "owner": "nullclaw",
+                "repo": "nullclaw",
+                "stars": 8044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClawGo",
+              "description": "Go Headless, voice + text, embedded Linux",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127674398,
+                "language": "Go",
+                "last_commit": "2026-07-27T01:52:58Z",
+                "owner": "openclaw",
+                "repo": "clawgo",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MimiClaw",
+              "description": "C ESP32 microcontroller version",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149403151,
+                "language": "C",
+                "last_commit": "2026-08-21T14:17:29Z",
+                "owner": "memovai",
+                "repo": "mimiclaw",
+                "stars": 5726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Carapace",
+              "description": "Various Governance/compliance first",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248004667,
+                "language": "Go",
+                "last_commit": "2026-08-22T22:31:12Z",
+                "owner": "carapace-sh",
+                "repo": "carapace",
+                "stars": 1424
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Implementations"
+        }
+      ],
+      "title": "🏗️ Alternative Implementations"
     },
     {
       "description": null,
@@ -60,7 +752,7 @@
                 "last_commit": "2026-03-24T14:54:56Z",
                 "owner": "hesamsheikh",
                 "repo": "awesome-openclaw-usecases",
-                "stars": 31670
+                "stars": 31671
               }
             },
             {
@@ -85,10 +777,121 @@
         }
       ],
       "title": "💼 Use Cases & Showcases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-openclaw-skills",
+          "description": "5,400+ curated skills — the specialized skills index",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141704318,
+            "language": null,
+            "last_commit": "2026-08-23T08:45:20Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-openclaw-skills",
+            "stars": 52150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesamsheikh/awesome-openclaw-usecases",
+          "description": "Real-world use cases by domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153093670,
+            "language": null,
+            "last_commit": "2026-03-24T14:54:56Z",
+            "owner": "hesamsheikh",
+            "repo": "awesome-openclaw-usecases",
+            "stars": 31671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vincentkoc/awesome-openclaw",
+          "description": "General community list",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1153364670,
+            "language": null,
+            "last_commit": "2026-04-20T02:06:13Z",
+            "owner": "vincentkoc",
+            "repo": "awesome-openclaw",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-mcp-servers",
+          "description": "Full MCP ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 896335270,
+            "language": null,
+            "last_commit": "2026-08-17T21:28:42Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92740
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-agents",
+          "description": "Broader AI agent landscape",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 655459367,
+            "language": null,
+            "last_commit": "2026-08-21T18:52:45Z",
+            "owner": "e2b-dev",
+            "repo": "awesome-ai-agents",
+            "stars": 29650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-apps",
+          "description": "LLM application patterns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 793375104,
+            "language": "Python",
+            "last_commit": "2026-08-22T04:01:54Z",
+            "owner": "Shubhamsaboo",
+            "repo": "awesome-llm-apps",
+            "stars": 133877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-selfhosted",
+          "description": "Self-hosting ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36633370,
+            "language": null,
+            "last_commit": "2026-08-22T18:55:56Z",
+            "owner": "awesome-selfhosted",
+            "repo": "awesome-selfhosted",
+            "stars": 314661
+          }
+        }
+      ],
+      "title": "🗺️ Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:57:33.614Z",
+    "last_updated": "2026-08-24T14:35:36.305Z",
     "original_repository": "EthanYolo01/Awesome-OpenClaw",
     "original_repository_id": 1185814933,
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
