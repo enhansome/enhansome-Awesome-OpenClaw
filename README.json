@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:34:17Z",
+            "last_commit": "2026-08-28T17:28:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387812
-          }
+            "stars": 387926
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:34:17Z",
+            "last_commit": "2026-08-28T17:28:27Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387812
-          }
+            "stars": 387926
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         }
       ],
       "title": "🏠 Official Resources"
@@ -50,11 +52,12 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:05:15Z",
+                "last_commit": "2026-08-28T16:08:31Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9357
-              }
+                "stars": 9364
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -65,11 +68,12 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:05:15Z",
+                "last_commit": "2026-08-28T16:08:31Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9357
-              }
+                "stars": 9364
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": "A skill is a file. Minimum viable skill:\nSkill authoring resources:",
@@ -93,11 +97,12 @@
                 "archived": false,
                 "id": 952688112,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:46:04Z",
+                "last_commit": "2026-08-27T23:15:08Z",
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36538
-              }
+                "stars": 36578
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -108,11 +113,12 @@
                 "archived": false,
                 "id": 942771284,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:22:25Z",
+                "last_commit": "2026-08-28T14:17:47Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32554
-              }
+                "stars": 32582
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -123,11 +129,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T01:12:36Z",
+                "last_commit": "2026-08-28T17:01:25Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89910
-              }
+                "stars": 89933
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -142,7 +149,8 @@
                 "owner": "JamesANZ",
                 "repo": "memory-mcp",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -156,8 +164,9 @@
                 "last_commit": "2026-08-26T12:56:45Z",
                 "owner": "brave",
                 "repo": "brave-search-mcp-server",
-                "stars": 1402
-              }
+                "stars": 1406
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -172,7 +181,8 @@
                 "owner": "zcaceres",
                 "repo": "fetch-mcp",
                 "stars": 816
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -186,8 +196,9 @@
                 "last_commit": "2026-08-17T05:06:35Z",
                 "owner": "crystaldba",
                 "repo": "postgres-mcp",
-                "stars": 3230
-              }
+                "stars": 3236
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": "Browse 13,000+ MCP servers at mcp.so or the official MCP server directory.",
@@ -215,7 +226,8 @@
                 "owner": "grp06",
                 "repo": "openclaw-studio",
                 "stars": 2033
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -230,7 +242,8 @@
                 "owner": "jasonkneen",
                 "repo": "vibeclaw",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -251,8 +264,9 @@
                 "last_commit": "2026-03-27T02:52:34Z",
                 "owner": "miaoxworld",
                 "repo": "openclaw-manager",
-                "stars": 1701
-              }
+                "stars": 1700
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -263,11 +277,12 @@
                 "archived": false,
                 "id": 1144728715,
                 "language": "C#",
-                "last_commit": "2026-08-27T05:20:42Z",
+                "last_commit": "2026-08-28T16:57:34Z",
                 "owner": "openclaw",
                 "repo": "openclaw-windows-node",
-                "stars": 2072
-              }
+                "stars": 2074
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -285,11 +300,12 @@
                 "archived": false,
                 "id": 1168177865,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T08:40:47Z",
+                "last_commit": "2026-08-28T10:52:53Z",
                 "owner": "bighamx",
                 "repo": "openclaw-android-node-apk",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -317,7 +333,8 @@
                 "owner": "adversa-ai",
                 "repo": "secureclaw",
                 "stars": 349
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -328,11 +345,12 @@
                 "archived": false,
                 "id": 1182547092,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:30:35Z",
+                "last_commit": "2026-08-28T17:28:03Z",
                 "owner": "NVIDIA",
                 "repo": "NemoClaw",
-                "stars": 22293
-              }
+                "stars": 22295
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -356,11 +374,12 @@
                 "archived": false,
                 "id": 840056306,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:28:50Z",
+                "last_commit": "2026-08-28T13:11:19Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30348
-              }
+                "stars": 30381
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -371,11 +390,12 @@
                 "archived": false,
                 "id": 1014729376,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T17:18:47Z",
+                "last_commit": "2026-08-28T08:35:30Z",
                 "owner": "MemTensor",
                 "repo": "MemOS",
-                "stars": 11038
-              }
+                "stars": 11066
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -386,11 +406,12 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:08:08Z",
+                "last_commit": "2026-08-28T14:20:26Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64191
-              }
+                "stars": 64265
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -420,7 +441,8 @@
                     "owner": "adversa-ai",
                     "repo": "secureclaw",
                     "stars": 349
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:29:26.818Z"
                 }
               ],
               "description": null,
@@ -449,11 +471,12 @@
                 "archived": false,
                 "id": 954873280,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:28:14Z",
+                "last_commit": "2026-08-28T13:20:05Z",
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25517
-              }
+                "stars": 25531
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -477,11 +500,12 @@
                 "archived": false,
                 "id": 1130539840,
                 "language": "Shell",
-                "last_commit": "2026-08-21T06:20:36Z",
+                "last_commit": "2026-08-28T09:17:02Z",
                 "owner": "openclaw",
                 "repo": "openclaw-ansible",
                 "stars": 597
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -503,7 +527,8 @@
                 "owner": "jasonkneen",
                 "repo": "vibeclaw",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -514,11 +539,12 @@
                 "archived": false,
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:05:15Z",
+                "last_commit": "2026-08-28T16:08:31Z",
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9357
-              }
+                "stars": 9364
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -540,7 +566,8 @@
                 "owner": "tugcantopaloglu",
                 "repo": "openclaw-dashboard",
                 "stars": 699
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -561,8 +588,9 @@
                 "last_commit": "2026-08-26T02:30:13Z",
                 "owner": "BlockRunAI",
                 "repo": "ClawRouter",
-                "stars": 6572
-              }
+                "stars": 6573
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -586,11 +614,12 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T16:34:17Z",
+                "last_commit": "2026-08-28T17:28:27Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387812
-              }
+                "stars": 387926
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -601,11 +630,12 @@
                 "archived": false,
                 "id": 1146738089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T15:43:44Z",
+                "last_commit": "2026-08-28T14:49:50Z",
                 "owner": "nanocoai",
                 "repo": "nanoclaw",
-                "stars": 30626
-              }
+                "stars": 30630
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -616,11 +646,12 @@
                 "archived": false,
                 "id": 1156956890,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:31:58Z",
+                "last_commit": "2026-08-28T17:20:03Z",
                 "owner": "zeroclaw-labs",
                 "repo": "zeroclaw",
-                "stars": 32664
-              }
+                "stars": 32667
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -631,11 +662,12 @@
                 "archived": false,
                 "id": 1145420469,
                 "language": "Rust",
-                "last_commit": "2026-08-27T09:42:39Z",
+                "last_commit": "2026-08-27T21:51:39Z",
                 "owner": "moltis-org",
                 "repo": "moltis",
-                "stars": 2839
-              }
+                "stars": 2838
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -646,11 +678,12 @@
                 "archived": false,
                 "id": 1149707767,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:17:33Z",
+                "last_commit": "2026-08-27T21:13:30Z",
                 "owner": "sipeed",
                 "repo": "picoclaw",
-                "stars": 29913
-              }
+                "stars": 29912
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -661,11 +694,12 @@
                 "archived": false,
                 "id": 1147094660,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:31:38Z",
+                "last_commit": "2026-08-28T13:03:08Z",
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47466
-              }
+                "stars": 47494
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -679,8 +713,9 @@
                 "last_commit": "2026-07-19T04:20:06Z",
                 "owner": "nullclaw",
                 "repo": "nullclaw",
-                "stars": 8049
-              }
+                "stars": 8051
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -695,7 +730,8 @@
                 "owner": "openclaw",
                 "repo": "clawgo",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -709,8 +745,9 @@
                 "last_commit": "2026-08-21T14:17:29Z",
                 "owner": "memovai",
                 "repo": "mimiclaw",
-                "stars": 5731
-              }
+                "stars": 5730
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -724,8 +761,9 @@
                 "last_commit": "2026-08-26T23:09:29Z",
                 "owner": "carapace-sh",
                 "repo": "carapace",
-                "stars": 1428
-              }
+                "stars": 1430
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": null,
@@ -752,8 +790,9 @@
                 "last_commit": "2026-03-24T14:54:56Z",
                 "owner": "hesamsheikh",
                 "repo": "awesome-openclaw-usecases",
-                "stars": 31669
-              }
+                "stars": 31670
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             },
             {
               "node_type": "item",
@@ -768,7 +807,8 @@
                 "owner": "lambdasoft-org",
                 "repo": "awesome-openclaw-ecosystem",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:29:26.818Z"
             }
           ],
           "description": "Personal Productivity:\nSoftware Development:\nBusiness Operations:\nResearch & Data:\nShowcase Collections:",
@@ -793,8 +833,9 @@
             "last_commit": "2026-08-23T08:45:20Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52202
-          }
+            "stars": 52219
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -808,8 +849,9 @@
             "last_commit": "2026-03-24T14:54:56Z",
             "owner": "hesamsheikh",
             "repo": "awesome-openclaw-usecases",
-            "stars": 31669
-          }
+            "stars": 31670
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -823,8 +865,9 @@
             "last_commit": "2026-04-20T02:06:13Z",
             "owner": "vincentkoc",
             "repo": "awesome-openclaw",
-            "stars": 144
-          }
+            "stars": 143
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -835,11 +878,12 @@
             "archived": false,
             "id": 896335270,
             "language": null,
-            "last_commit": "2026-08-26T20:37:13Z",
+            "last_commit": "2026-08-27T21:09:23Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92884
-          }
+            "stars": 92972
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -853,8 +897,9 @@
             "last_commit": "2026-08-21T18:52:45Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29703
-          }
+            "stars": 29727
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -868,8 +913,9 @@
             "last_commit": "2026-08-22T04:01:54Z",
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 134695
-          }
+            "stars": 134901
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         },
         {
           "node_type": "item",
@@ -880,18 +926,19 @@
             "archived": false,
             "id": 36633370,
             "language": null,
-            "last_commit": "2026-08-27T15:08:33Z",
+            "last_commit": "2026-08-28T15:13:31Z",
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315554
-          }
+            "stars": 315743
+          },
+          "first_seen": "2026-08-28T17:29:26.818Z"
         }
       ],
       "title": "🗺️ Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:34:40.202Z",
+    "last_updated": "2026-08-28T17:29:26.818Z",
     "original_repository_info": {
       "archived": false,
       "id": 1185814933,
@@ -899,7 +946,7 @@
       "last_commit": "2026-03-20T05:16:06Z",
       "owner": "EthanYolo01",
       "repo": "Awesome-OpenClaw",
-      "stars": 158
+      "stars": 159
     },
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw",
