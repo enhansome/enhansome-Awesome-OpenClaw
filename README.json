@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:28:27Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:52:48Z",
+            "open_issues": 5731,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387926
+            "stars": 387951,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:28:27Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:52:48Z",
+            "open_issues": 5731,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387926
+            "stars": 387951,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         }
@@ -50,12 +76,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill + Plugin Registry for OpenClaw",
+                "homepage": "https://clawhub.ai",
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:08:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:39:01Z",
+                "open_issues": 50,
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9364
+                "stars": 9366,
+                "topics": [
+                  "directory",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -66,12 +100,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill + Plugin Registry for OpenClaw",
+                "homepage": "https://clawhub.ai",
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:08:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:39:01Z",
+                "open_issues": 50,
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9364
+                "stars": 9366,
+                "topics": [
+                  "directory",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -95,12 +137,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playwright MCP server",
+                "homepage": "https://www.npmjs.com/package/@playwright/mcp",
                 "id": 952688112,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:15:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:44:41Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 36578
+                "stars": 36592,
+                "topics": [
+                  "mcp",
+                  "playwright"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -111,12 +161,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub's official MCP Server",
+                "homepage": null,
                 "id": 942771284,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:17:47Z",
+                "open_issues": 333,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32582
+                "stars": 32587,
+                "topics": [
+                  "github",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -127,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol Servers",
+                "homepage": "https://modelcontextprotocol.io",
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:01:25Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:58:20Z",
+                "open_issues": 506,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89933
+                "stars": 89940,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -143,12 +207,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple MCP server that stores and retrieves memories from multiple LLMs.",
+                "homepage": "https://glama.ai/mcp/servers/@JamesANZ/memory-mcp",
                 "id": 1017108665,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-10T04:24:04Z",
+                "open_issues": 0,
                 "owner": "JamesANZ",
                 "repo": "memory-mcp",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "llm-memory",
+                  "llms",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -159,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1001041900,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:56:45Z",
+                "open_issues": 34,
                 "owner": "brave",
                 "repo": "brave-search-mcp-server",
-                "stars": 1406
+                "stars": 1407,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -175,12 +253,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible HTTP fetching Model Context Protocol server.",
+                "homepage": null,
                 "id": 905004409,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-12T17:17:24Z",
+                "open_issues": 7,
                 "owner": "zcaceres",
                 "repo": "fetch-mcp",
-                "stars": 816
+                "stars": 816,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -191,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postgres MCP Pro provides configurable read/write access and performance analysis for you and your AI agents.",
+                "homepage": null,
                 "id": 954215474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T05:06:35Z",
+                "open_issues": 89,
                 "owner": "crystaldba",
                 "repo": "postgres-mcp",
-                "stars": 3236
+                "stars": 3235,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -220,12 +308,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A clean web dashboard for OpenClaw. Connect your Gateway, manage agents, and ship faster. ⭐️ Star if you like it!",
+                "homepage": null,
                 "id": 1144540234,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-26T00:06:05Z",
+                "open_issues": 22,
                 "owner": "grp06",
                 "repo": "openclaw-studio",
-                "stars": 2033
+                "stars": 2033,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -236,12 +329,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy OpenClaw to your local browser",
+                "homepage": "https://vibeclaw.dev",
                 "id": 1158187733,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-21T13:07:50Z",
+                "open_issues": 0,
                 "owner": "jasonkneen",
                 "repo": "vibeclaw",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "openclaw"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -259,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1147071593,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-03-27T02:52:34Z",
+                "open_issues": 55,
                 "owner": "miaoxworld",
                 "repo": "openclaw-manager",
-                "stars": 1700
+                "stars": 1700,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -275,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+                "homepage": null,
                 "id": 1144728715,
                 "language": "C#",
-                "last_commit": "2026-08-28T16:57:34Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:44:51Z",
+                "open_issues": 84,
                 "owner": "openclaw",
                 "repo": "openclaw-windows-node",
-                "stars": 2074
+                "stars": 2075,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -298,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenClaw Android Node Companion APK auto release🦞",
+                "homepage": null,
                 "id": 1168177865,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T10:52:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:06:03Z",
+                "open_issues": 1,
                 "owner": "bighamx",
                 "repo": "openclaw-android-node-apk",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -327,12 +442,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
+                "homepage": "https://adversa.ai/",
                 "id": 1154405739,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-04-12T16:40:46Z",
+                "open_issues": 6,
                 "owner": "adversa-ai",
                 "repo": "secureclaw",
-                "stars": 349
+                "stars": 349,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agents",
+                  "ai-security",
+                  "llm-security",
+                  "openclaw",
+                  "openclaw-plugin",
+                  "openclaw-security",
+                  "openclaw-skills",
+                  "owasp",
+                  "owasp-llm-top-10"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -343,12 +474,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+                "homepage": "https://docs.nvidia.com/nemoclaw/latest/",
                 "id": 1182547092,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:28:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:48:03Z",
+                "open_issues": 503,
                 "owner": "NVIDIA",
                 "repo": "NemoClaw",
-                "stars": 22295
+                "stars": 22301,
+                "topics": [
+                  "ai-agents",
+                  "hermes",
+                  "nvidia",
+                  "openclaw",
+                  "openshell",
+                  "sandboxing",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -372,12 +516,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Real-Time Knowledge Graphs for AI Agents",
+                "homepage": "https://help.getzep.com/graphiti",
                 "id": 840056306,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:11:19Z",
+                "open_issues": 484,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30381
+                "stars": 30387,
+                "topics": [
+                  "agents",
+                  "graph",
+                  "llms",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -388,12 +542,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+                "homepage": "https://memos.openmem.net",
                 "id": 1014729376,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:35:30Z",
+                "open_issues": 58,
                 "owner": "MemTensor",
                 "repo": "MemOS",
-                "stars": 11066
+                "stars": 11071,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "claude",
+                  "deepseek-harness",
+                  "dsh-plugin",
+                  "hermes",
+                  "llm",
+                  "long-term-memory",
+                  "mcp",
+                  "memory",
+                  "memory-management",
+                  "openclaw",
+                  "rag",
+                  "self-evolving",
+                  "self-hosted",
+                  "skills",
+                  "token-savings"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -404,12 +584,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal memory layer for AI Agents",
+                "homepage": "https://mem0.ai",
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:20:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:50Z",
+                "open_issues": 703,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64265
+                "stars": 64281,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "application",
+                  "chatbots",
+                  "chatgpt",
+                  "genai",
+                  "llm",
+                  "long-term-memory",
+                  "memory",
+                  "memory-management",
+                  "python",
+                  "rag",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -435,12 +635,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SecureClaw - Security Plugin and Skill for OpenClaw OWASP-Aligned",
+                    "homepage": "https://adversa.ai/",
                     "id": 1154405739,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2026-04-12T16:40:46Z",
+                    "open_issues": 6,
                     "owner": "adversa-ai",
                     "repo": "secureclaw",
-                    "stars": 349
+                    "stars": 349,
+                    "topics": [
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-security",
+                      "llm-security",
+                      "openclaw",
+                      "openclaw-plugin",
+                      "openclaw-security",
+                      "openclaw-skills",
+                      "owasp",
+                      "owasp-llm-top-10"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:29:26.818Z"
                 }
@@ -469,12 +685,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
+                "homepage": "https://a2a-protocol.org/",
                 "id": 954873280,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:20:05Z",
+                "open_issues": 238,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25531
+                "stars": 25532,
+                "topics": [
+                  "a2a",
+                  "a2a-mcp",
+                  "a2a-protocol",
+                  "a2a-server",
+                  "agents",
+                  "generative-ai",
+                  "linux-foundation"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -498,12 +727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated, hardened Clawdbot installation with Tailscale VPN, UFW firewall, and Docker isolation",
+                "homepage": null,
                 "id": 1130539840,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:17:02Z",
+                "open_issues": 14,
                 "owner": "openclaw",
                 "repo": "openclaw-ansible",
-                "stars": 597
+                "stars": 597,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -521,12 +755,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deploy OpenClaw to your local browser",
+                "homepage": "https://vibeclaw.dev",
                 "id": 1158187733,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-21T13:07:50Z",
+                "open_issues": 0,
                 "owner": "jasonkneen",
                 "repo": "vibeclaw",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "openclaw"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -537,12 +778,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skill + Plugin Registry for OpenClaw",
+                "homepage": "https://clawhub.ai",
                 "id": 1127248221,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:08:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:39:01Z",
+                "open_issues": 50,
                 "owner": "openclaw",
                 "repo": "clawhub",
-                "stars": 9364
+                "stars": 9366,
+                "topics": [
+                  "directory",
+                  "skill"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -560,12 +809,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more.",
+                "homepage": "https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0",
                 "id": 1154317705,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-03-17T10:49:12Z",
+                "open_issues": 5,
                 "owner": "tugcantopaloglu",
                 "repo": "openclaw-dashboard",
-                "stars": 699
+                "stars": 699,
+                "topics": [
+                  "ai-agents",
+                  "claude",
+                  "dashboard",
+                  "devops",
+                  "llm",
+                  "mfa",
+                  "monitoring",
+                  "nodejs",
+                  "openclaw",
+                  "raspberry-pi",
+                  "real-time",
+                  "security",
+                  "self-hosted",
+                  "sse",
+                  "totp"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -583,12 +853,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent-native LLM router for autonomous agents. Every frontier model behind one wallet, <1ms local routing, USDC payments on Base & Solana via x402.",
+                "homepage": "https://www.npmjs.com/package/@blockrun/clawrouter",
                 "id": 1149071982,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:30:13Z",
+                "open_issues": 10,
                 "owner": "BlockRunAI",
                 "repo": "ClawRouter",
-                "stars": 6573
+                "stars": 6575,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "cost-optimization",
+                  "deepseek",
+                  "gemini",
+                  "llm",
+                  "llm-router",
+                  "micropayments",
+                  "openai",
+                  "openclaw",
+                  "smart-routing",
+                  "stablecoin-payment",
+                  "stablecoin-payments",
+                  "usdc",
+                  "x402"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -612,12 +904,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+                "homepage": "https://openclaw.ai",
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:28:27Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:52:48Z",
+                "open_issues": 5731,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387926
+                "stars": 387951,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "crustacean",
+                  "molty",
+                  "openclaw",
+                  "own-your-data",
+                  "personal"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -628,12 +933,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+                "homepage": "https://nanoclaw.dev",
                 "id": 1146738089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T14:49:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:32:27Z",
+                "open_issues": 1068,
                 "owner": "nanocoai",
                 "repo": "nanoclaw",
-                "stars": 30630
+                "stars": 30634,
+                "topics": [
+                  "ai-agents",
+                  "ai-assistant",
+                  "claude-code",
+                  "claude-skills",
+                  "openclaw"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -644,12 +960,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+                "homepage": "https://www.zeroclawlabs.ai/",
                 "id": 1156956890,
                 "language": "Rust",
-                "last_commit": "2026-08-28T17:20:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:39:03Z",
+                "open_issues": 809,
                 "owner": "zeroclaw-labs",
                 "repo": "zeroclaw",
-                "stars": 32667
+                "stars": 32669,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "ai",
+                  "infra",
+                  "ml",
+                  "openclaw",
+                  "os",
+                  "zeroclaw"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -660,12 +990,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+                "homepage": "https://moltis.org",
                 "id": 1145420469,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:51:39Z",
+                "open_issues": 82,
                 "owner": "moltis-org",
                 "repo": "moltis",
-                "stars": 2838
+                "stars": 2838,
+                "topics": [
+                  "ai-agent",
+                  "ai-assistant",
+                  "clawdbot",
+                  "llm",
+                  "mcp",
+                  "openclaw",
+                  "rust",
+                  "sandbox",
+                  "self-hosted",
+                  "single-binary",
+                  "telegram-bot",
+                  "voice-assistant"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -676,12 +1024,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
+                "homepage": "https://picoclaw.io",
                 "id": 1149707767,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:13:30Z",
+                "open_issues": 32,
                 "owner": "sipeed",
                 "repo": "picoclaw",
-                "stars": 29912
+                "stars": 29913,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -692,12 +1045,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+                "homepage": "https://nanobot.wiki",
                 "id": 1147094660,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:03:08Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:44:09Z",
+                "open_issues": 756,
                 "owner": "HKUDS",
                 "repo": "nanobot",
-                "stars": 47494
+                "stars": 47510,
+                "topics": [
+                  "agent-framework",
+                  "ai-agent",
+                  "ai-agents",
+                  "chatbot",
+                  "chatops",
+                  "discord-bot",
+                  "llm-agents",
+                  "llms",
+                  "local-llm",
+                  "mcp",
+                  "model-context-protocol",
+                  "multi-agent",
+                  "openai-compatible",
+                  "openclaw",
+                  "personal-ai-assistant",
+                  "python",
+                  "self-hosted",
+                  "telegram-bot-ai-assistant",
+                  "webui",
+                  "workflow-automation"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -708,12 +1087,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
+                "homepage": "https://nullclaw.io",
                 "id": 1159542259,
                 "language": "Zig",
+                "license": "MIT",
                 "last_commit": "2026-07-19T04:20:06Z",
+                "open_issues": 93,
                 "owner": "nullclaw",
                 "repo": "nullclaw",
-                "stars": 8051
+                "stars": 8051,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "personal",
+                  "zig"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -724,12 +1113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clawd node in go",
+                "homepage": null,
                 "id": 1127674398,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-27T01:52:58Z",
+                "open_issues": 1,
                 "owner": "openclaw",
                 "repo": "clawgo",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -740,12 +1134,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
+                "homepage": "https://mimiclaw.io",
                 "id": 1149403151,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-21T14:17:29Z",
+                "open_issues": 111,
                 "owner": "memovai",
                 "repo": "mimiclaw",
-                "stars": 5730
+                "stars": 5730,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "clawdbot",
+                  "edge-ai-agents",
+                  "memory",
+                  "openclaw"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -756,12 +1162,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-shell completion library.",
+                "homepage": "https://carapace.sh",
                 "id": 248004667,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T23:09:29Z",
+                "open_issues": 50,
                 "owner": "carapace-sh",
                 "repo": "carapace",
-                "stars": 1430
+                "stars": 1431,
+                "topics": [
+                  "bash",
+                  "carapace",
+                  "cobra",
+                  "completion",
+                  "elvish",
+                  "fish",
+                  "generator",
+                  "ion",
+                  "nushell",
+                  "oil",
+                  "powershell",
+                  "shell",
+                  "tcsh",
+                  "xonsh",
+                  "xontrib",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -785,12 +1213,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community collection of OpenClaw use cases for making life easier.",
+                "homepage": null,
                 "id": 1153093670,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-24T14:54:56Z",
+                "open_issues": 76,
                 "owner": "hesamsheikh",
                 "repo": "awesome-openclaw-usecases",
-                "stars": 31670
+                "stars": 31671,
+                "topics": [
+                  "awesome-list",
+                  "clawdbot",
+                  "moltbot",
+                  "openclaw",
+                  "openclaw-plugin",
+                  "openclaw-setup",
+                  "openclaw-skills",
+                  "usecase"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             },
@@ -801,12 +1243,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of platforms, infrastructure, and services in the OpenClaw (MoltBot/ClawdBot) agent ecosystem where humans can observe but not participate",
+                "homepage": null,
                 "id": 1149769628,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-07T11:03:42Z",
+                "open_issues": 3,
                 "owner": "lambdasoft-org",
                 "repo": "awesome-openclaw-ecosystem",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "agents",
+                  "awesome",
+                  "awesome-list",
+                  "clawd",
+                  "clawdbot",
+                  "clawdhub",
+                  "moltbot"
+                ]
               },
               "first_seen": "2026-08-28T17:29:26.818Z"
             }
@@ -828,12 +1283,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+            "homepage": "https://clawskills.sh/",
             "id": 1141704318,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-23T08:45:20Z",
+            "open_issues": 1,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52219
+            "stars": 52225,
+            "topics": [
+              "agent-skills",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "clawd",
+              "clawdbot",
+              "clawdbot-skill",
+              "clawdhub",
+              "moltbot",
+              "moltbot-skills",
+              "openclaw",
+              "openclaw-skills"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -844,12 +1317,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community collection of OpenClaw use cases for making life easier.",
+            "homepage": null,
             "id": 1153093670,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-24T14:54:56Z",
+            "open_issues": 76,
             "owner": "hesamsheikh",
             "repo": "awesome-openclaw-usecases",
-            "stars": 31670
+            "stars": 31671,
+            "topics": [
+              "awesome-list",
+              "clawdbot",
+              "moltbot",
+              "openclaw",
+              "openclaw-plugin",
+              "openclaw-setup",
+              "openclaw-skills",
+              "usecase"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -860,12 +1347,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot): skills, plugins, memory systems, MCP tools, deployment stacks, ecosystem platforms, and developer tooling.",
+            "homepage": null,
             "id": 1153364670,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-20T02:06:13Z",
+            "open_issues": 57,
             "owner": "vincentkoc",
             "repo": "awesome-openclaw",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "awesome-list",
+              "awesome-openclaw",
+              "clawdbot",
+              "mcp",
+              "model-context-protocol",
+              "moltbot",
+              "openclaw",
+              "plugins",
+              "self-hosted",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -876,12 +1381,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3711,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92972
+            "stars": 93009,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -892,12 +1405,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of AI autonomous agents",
+            "homepage": "https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=awesome-ai-agents",
             "id": 655459367,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T18:52:45Z",
+            "open_issues": 960,
             "owner": "e2b-dev",
             "repo": "awesome-ai-agents",
-            "stars": 29727
+            "stars": 29732,
+            "topics": [
+              "agent",
+              "ai",
+              "artificial-intelligence",
+              "autogpt",
+              "autonomous-agents",
+              "awesome",
+              "babyagi",
+              "copilot",
+              "gpt",
+              "gpt-4",
+              "gpt-engineer",
+              "openai",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -908,12 +1440,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+            "homepage": "https://www.theunwindai.com",
             "id": 793375104,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T04:01:54Z",
+            "open_issues": 21,
             "owner": "Shubhamsaboo",
             "repo": "awesome-llm-apps",
-            "stars": 134901
+            "stars": 135026,
+            "topics": [
+              "agents",
+              "llms",
+              "python",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         },
@@ -924,12 +1466,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+            "homepage": "https://awesome-selfhosted.net/",
             "id": 36633370,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:13:31Z",
+            "open_issues": 0,
             "owner": "awesome-selfhosted",
             "repo": "awesome-selfhosted",
-            "stars": 315743
+            "stars": 315833,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "free-software",
+              "hosting",
+              "privacy",
+              "self-hosted",
+              "selfhosted"
+            ]
           },
           "first_seen": "2026-08-28T17:29:26.818Z"
         }
@@ -938,15 +1494,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:29:26.818Z",
+    "last_updated": "2026-08-29T04:52:54.672Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A carefully curated list of awesome OpenClaw resources — not everything, just the best.  Skills · Plugins · MCP · Tools · Deployments · Security · Research · Alternatives。精心策划的 OpenClaw 优质资源大合集 —— 不求大而全，只求真有用。 ",
+      "homepage": "https://github.com/EthanYolo01/Awesome-OpenClaw",
       "id": 1185814933,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-20T05:16:06Z",
+      "open_issues": 17,
       "owner": "EthanYolo01",
       "repo": "Awesome-OpenClaw",
-      "stars": 159
+      "stars": 159,
+      "topics": [
+        "agent",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "openclaw",
+        "openclaw-agent"
+      ]
     },
     "original_repository_sha": "af1afee66a8844a928029964b03d710ce6de203b",
     "enhanced_repository": "enhansome/enhansome-Awesome-OpenClaw",
