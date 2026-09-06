@@ -113,12 +113,12 @@ Mar 2026  ──  247K stars, 47.7K forks
 
 | Resource                                                                                                                    | Description                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) ⭐ 388,913 \| 🐛 6,228 \| 🌐 TypeScript \| 📅 2026-09-05           | Main repository — TypeScript monorepo                                     |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) ⭐ 388,999 \| 🐛 6,255 \| 🌐 TypeScript \| 📅 2026-09-06           | Main repository — TypeScript monorepo                                     |
 | [openclaw/skills](https://github.com/openclaw/skills)                                                                       | Official skills repository                                                |
 | [clawhub.ai](https://clawhub.ai)                                                                                            | Official skills marketplace & registry                                    |
 | [OpenClaw Blog](https://openclaw.ai/blog/)                                                                                  | Announcements, security advisories, feature deep-dives                    |
 | [OpenClaw Docs](https://docs.openclaw.ai)                                                                                   | Official documentation                                                    |
-| [OpenClaw Changelog](https://github.com/openclaw/openclaw/releases) ⭐ 388,913 \| 🐛 6,228 \| 🌐 TypeScript \| 📅 2026-09-05 | Release notes and version history                                         |
+| [OpenClaw Changelog](https://github.com/openclaw/openclaw/releases) ⭐ 388,999 \| 🐛 6,255 \| 🌐 TypeScript \| 📅 2026-09-06 | Release notes and version history                                         |
 | [Latest Updates & Roadmap](https://x.com/openclaw)                                                                          | Official X account — feature previews, release news, community highlights |
 
 **Monorepo package map:**
@@ -414,7 +414,7 @@ openclaw skill remove steipete/slack
 ### Skills by Category
 
 For the full categorized index of 5,400+ vetted skills:
-➡️ [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,389 | 🐛 2 | 📅 2026-09-05 — 1M+ monthly views, the #1 community skills resource.
+➡️ [**VoltAgent/awesome-openclaw-skills**](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,400 | 🐛 4 | 📅 2026-09-05 — 1M+ monthly views, the #1 community skills resource.
 
 ### Building Your Own Skills
 
@@ -442,8 +442,8 @@ Return the result in a friendly format.
 
 **Skill authoring resources:**
 
-* [SKILL.md Format Specification](https://github.com/openclaw/clawhub/blob/main/docs/skill-format.md) ⭐ 9,393 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-05 — frontmatter fields, env var declarations, binary dependencies, install spec
-* [ClawHub CLI Publishing Tool](https://github.com/openclaw/clawhub) ⭐ 9,393 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-05 — `clawhub publish <path>`, `clawhub inspect <slug>`, versioning, soft-delete/restore
+* [SKILL.md Format Specification](https://github.com/openclaw/clawhub/blob/main/docs/skill-format.md) ⭐ 9,393 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-06 — frontmatter fields, env var declarations, binary dependencies, install spec
+* [ClawHub CLI Publishing Tool](https://github.com/openclaw/clawhub) ⭐ 9,393 | 🐛 58 | 🌐 TypeScript | 📅 2026-09-06 — `clawhub publish <path>`, `clawhub inspect <slug>`, versioning, soft-delete/restore
 * [Official Skills Documentation](https://docs.openclaw.ai/tools/skills) — SKILL.md loading mechanics, scope priority, token cost formula
 * [Skills: Install & Custom Development in Practice](https://openclawsetup.info/en/blog/openclaw-skills-install-and-write) — Real-world SKILL.md examples (ClickUp, Outlook, GitHub) with minimal permission configs
 * [OpenClaw Skills Developer Guide (2026)](https://www.growexx.com/blog/openclaw-skills-development-guide-for-developers/) — Skill architecture, security boundaries, private registry setup
@@ -465,17 +465,17 @@ openclaw mcp add --local /path/to/my-mcp-server --name local-tools
 
 | Server                                                                                                                                          | Category | Notes                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------------------------------------------- |
-| [playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,813 \| 🐛 4 \| 🌐 TypeScript \| 📅 2026-09-04                                | Browser  | Most-used MCP in OpenClaw; full browser automation |
-| [github-mcp](https://github.com/github/github-mcp-server) ⭐ 32,723 \| 🐛 311 \| 🌐 Go \| 📅 2026-09-05                                          | DevOps   | Official GitHub MCP                                |
-| [filesystem-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) ⭐ 90,088 \| 🐛 484 \| 🌐 TypeScript \| 📅 2026-09-03 | System   | Read/write files with explicit path control        |
+| [playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,843 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-09-04                                | Browser  | Most-used MCP in OpenClaw; full browser automation |
+| [github-mcp](https://github.com/github/github-mcp-server) ⭐ 32,743 \| 🐛 312 \| 🌐 Go \| 📅 2026-09-05                                          | DevOps   | Official GitHub MCP                                |
+| [filesystem-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) ⭐ 90,108 \| 🐛 488 \| 🌐 TypeScript \| 📅 2026-09-03 | System   | Read/write files with explicit path control        |
 | [memory-mcp](https://github.com/JamesANZ/memory-mcp) ⭐ 22 \| 🐛 0 \| 🌐 TypeScript \| 📅 2025-12-10                                             | Memory   | Knowledge graph memory                             |
-| [brave-search-mcp](https://github.com/brave/brave-search-mcp-server) ⭐ 1,422 \| 🐛 37 \| 🌐 TypeScript \| 📅 2026-09-03                         | Search   | Web search via Brave API                           |
+| [brave-search-mcp](https://github.com/brave/brave-search-mcp-server) ⭐ 1,422 \| 🐛 37 \| 🌐 TypeScript \| 📅 2026-09-06                         | Search   | Web search via Brave API                           |
 | [fetch-mcp](https://github.com/zcaceres/fetch-mcp) ⭐ 821 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-03-12                                              | HTTP     | Web fetching and scraping                          |
 | [postgres-mcp](https://github.com/crystaldba/postgres-mcp) ⭐ 3,268 \| 🐛 90 \| 🌐 Python \| 📅 2026-08-17                                       | Database | Read-only PostgreSQL access                        |
 | [slack-mcp](https://mcp.slack.com)                                                                                                              | Comms    | Official Slack MCP                                 |
 | [gmail-mcp](https://gmail.mcp.claude.com)                                                                                                       | Email    | Gmail via MCP                                      |
 
-Browse 13,000+ MCP servers at [mcp.so](https://mcp.so) or the [official MCP server directory](https://github.com/modelcontextprotocol/servers) ⭐ 90,088 | 🐛 484 | 🌐 TypeScript | 📅 2026-09-03.
+Browse 13,000+ MCP servers at [mcp.so](https://mcp.so) or the [official MCP server directory](https://github.com/modelcontextprotocol/servers) ⭐ 90,108 | 🐛 488 | 🌐 TypeScript | 📅 2026-09-03.
 
 ***
 
@@ -497,14 +497,14 @@ Browse 13,000+ MCP servers at [mcp.so](https://mcp.so) or the [official MCP serv
 | --------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------- |
 | [OpenClaw for macOS](https://docs.openclaw.ai/platforms/macos)                                                        | macOS           | Menu bar companion app; manages/connects to local Gateway and exposes macOS capabilities as nodes to the agent |
 | [OpenClaw Manager](https://github.com/miaoxworld/openclaw-manager) ⭐ 1,699 \| 🐛 55 \| 🌐 TypeScript \| 📅 2026-03-27 | macOS / Windows | Desktop chat interface with visual file management                                                             |
-| [OpenClaw Windows Hub](https://github.com/openclaw/openclaw-windows-node) ⭐ 2,089 \| 🐛 80 \| 🌐 C# \| 📅 2026-09-05  | Windows         | Windows companion suite for OpenClaw (AI personal assistant)                                                   |
+| [OpenClaw Windows Hub](https://github.com/openclaw/openclaw-windows-node) ⭐ 2,092 \| 🐛 92 \| 🌐 C# \| 📅 2026-09-06  | Windows         | Windows companion suite for OpenClaw (AI personal assistant)                                                   |
 
 ### Mobile
 
 | Tool                                                                | Platform | Description                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [OpenClaw iOS App](https://docs.openclaw.ai/platforms/ios)          | iOS      | **Internal preview — not yet publicly released.** Connects to Gateway via WebSocket (LAN or tailnet); exposes node capabilities: canvas, screenshot, camera capture, location, call mode, voice wake. Receives `node.invoke` commands and reports node status events |
-| [OpenClaw Android Node](https://docs.openclaw.ai/platforms/android) | Android  | Official Android platform docs; community APK build at [openclaw-android-node-apk](https://github.com/bighamx/openclaw-android-node-apk) ⭐ 56 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-09-05                                                                              |
+| [OpenClaw Android Node](https://docs.openclaw.ai/platforms/android) | Android  | Official Android platform docs; community APK build at [openclaw-android-node-apk](https://github.com/bighamx/openclaw-android-node-apk) ⭐ 56 \| 🐛 1 \| 🌐 TypeScript \| 📅 2026-09-06                                                                              |
 
 ***
 
@@ -584,7 +584,7 @@ services.openclaw = {
 };
 ```
 
-See [nix-openclaw](https://github.com/openclaw/nix-openclaw) ⭐ 711 | 🐛 2 | 🌐 Nix | 📅 2026-09-04 for the community NixOS module.
+See [nix-openclaw](https://github.com/openclaw/nix-openclaw) ⭐ 711 | 🐛 1 | 🌐 Nix | 📅 2026-09-05 for the community NixOS module.
 
 ### VPS Price Comparison
 
@@ -650,7 +650,7 @@ ClawTeam handles auth, routing, and billing. Best for teams >10 people who don't
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------ |
 | [agent-audit-trail](https://clawhub.ai/community/agent-audit-trail)                                    | Tamper-evident hash-chained action logs                   | SOC 2 Type II compatible |
 | [SecureClaw](https://github.com/adversa-ai/secureclaw) ⭐ 348 \| 🐛 7 \| 🌐 TypeScript \| 📅 2026-04-12 | 55-point security audit; OWASP ASI + MITRE ATLAS mappings | OWASP ASI Top 10         |
-| [NemoClaw](https://github.com/nvidia/nemoclaw) ⭐ 22,379 \| 🐛 612 \| 🌐 TypeScript \| 📅 2026-09-05    | NVIDIA-sandboxed build; GPU-accelerated, fully isolated   | Air-gap ready            |
+| [NemoClaw](https://github.com/nvidia/nemoclaw) ⭐ 22,380 \| 🐛 618 \| 🌐 TypeScript \| 📅 2026-09-06    | NVIDIA-sandboxed build; GPU-accelerated, fully isolated   | Air-gap ready            |
 
 ### Data Residency
 
@@ -693,9 +693,9 @@ The `cron-backup` skill automates this on a schedule and optionally uploads to S
 | Tool                                                                                            | Description                                  | Best For                                     |
 | ----------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 | [Supermemory](https://supermemory.ai)                                                           | Managed external memory with semantic search | Teams needing shared memory across instances |
-| [Graphiti](https://github.com/getzep/graphiti) ⭐ 30,600 \| 🐛 490 \| 🌐 Python \| 📅 2026-09-04 | Temporal knowledge graph memory              | Complex relational knowledge over time       |
-| [MemOS](https://github.com/MemTensor/MemOS) ⭐ 11,194 \| 🐛 65 \| 🌐 TypeScript \| 📅 2026-09-03 | Hierarchical memory OS for LLM agents        | Research-grade memory architecture           |
-| [mem0](https://github.com/mem0ai/mem0) ⭐ 64,728 \| 🐛 728 \| 🌐 Python \| 📅 2026-09-04         | Self-improving personalized memory           | Personalization-heavy workflows              |
+| [Graphiti](https://github.com/getzep/graphiti) ⭐ 30,625 \| 🐛 490 \| 🌐 Python \| 📅 2026-09-04 | Temporal knowledge graph memory              | Complex relational knowledge over time       |
+| [MemOS](https://github.com/MemTensor/MemOS) ⭐ 11,203 \| 🐛 64 \| 🌐 TypeScript \| 📅 2026-09-03 | Hierarchical memory OS for LLM agents        | Research-grade memory architecture           |
+| [mem0](https://github.com/mem0ai/mem0) ⭐ 64,765 \| 🐛 732 \| 🌐 Python \| 📅 2026-09-04         | Self-improving personalized memory           | Personalization-heavy workflows              |
 
 ### Memory Best Practices
 
@@ -860,7 +860,7 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 
 | Resource                                                                                               | Description                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| [A2A Protocol Spec](https://github.com/a2aproject/A2A) ⭐ 25,634 \| 🐛 244 \| 🌐 Shell \| 📅 2026-09-04 | Open agent interoperability protocol, initiated by Google                                                                     |
+| [A2A Protocol Spec](https://github.com/a2aproject/A2A) ⭐ 25,650 \| 🐛 246 \| 🌐 Shell \| 📅 2026-09-04 | Open agent interoperability protocol, initiated by Google                                                                     |
 | [ACP — Agent Communication Protocol](https://agentcommunicationprotocol.dev/)                          | Open agent interoperability protocol designed to address the growing challenge of connecting AI agents, applications and more |
 | [agent-team-orchestration skill](https://clawhub.ai/community/agent-team-orchestration)                | Multi-agent teams with roles, tasks, handoffs, review                                                                         |
 | [agentgate skill](https://clawhub.ai/community/agentgate)                                              | API gateway with human-in-the-loop write approval                                                                             |
@@ -881,7 +881,7 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Plugin SDK Documentation](https://docs.openclaw.ai/tools/plugin)                                     | Plugin SDK ships as sub-path exports within the main package (`openclaw/plugin-sdk/core`, `/telegram`, `/discord`, etc.) — no separate package |
 | [Vibeclaw](https://github.com/jasonkneen/vibeclaw) ⭐ 135 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-04-21    | Browser-based sandbox — test without touching production                                                                                       |
-| [ClawHub CLI](https://github.com/openclaw/clawhub) ⭐ 9,393 \| 🐛 55 \| 🌐 TypeScript \| 📅 2026-09-05 | Official publishing tool: `clawhub publish`, `clawhub inspect`, versioning, soft-delete/restore                                                |
+| [ClawHub CLI](https://github.com/openclaw/clawhub) ⭐ 9,393 \| 🐛 58 \| 🌐 TypeScript \| 📅 2026-09-06 | Official publishing tool: `clawhub publish`, `clawhub inspect`, versioning, soft-delete/restore                                                |
 
 ### Monitoring & Observability
 
@@ -894,7 +894,7 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 
 | Tool                                                                                                     | Description                                                                                                                                                                         |
 | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,579 \| 🐛 8 \| 🌐 TypeScript \| 📅 2026-09-05 | Agent-native LLM router supporting 41+ models, sub-1ms routing latency, USDC payments via x402 on Base and Solana                                                                   |
+| [ClawRouter](https://github.com/BlockRunAI/ClawRouter) ⭐ 6,580 \| 🐛 0 \| 🌐 TypeScript \| 📅 2026-09-05 | Agent-native LLM router supporting 41+ models, sub-1ms routing latency, USDC payments via x402 on Base and Solana                                                                   |
 | [Model Router](https://clawhub.ai/MrJootta/model-router-premium)                                         | Routes model requests based on configured models, costs and task complexity — general/low-complexity requests to the cheapest available model, higher-complexity to stronger models |
 
 ***
@@ -915,24 +915,24 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 
 ### Implementations
 
-**[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 388,913 | 🐛 6,228 | 🌐 TypeScript | 📅 2026-09-05** — Reference implementation. Choose when: you want the largest skill ecosystem and accept the resource tradeoffs as the cost of maturity.
+**[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 388,999 | 🐛 6,255 | 🌐 TypeScript | 📅 2026-09-06** — Reference implementation. Choose when: you want the largest skill ecosystem and accept the resource tradeoffs as the cost of maturity.
 
-**[NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,702 | 🐛 1,090 | 🌐 TypeScript | 📅 2026-09-04** — Python, mandatory container isolation, \~700 lines (auditable in an afternoon). Choose when: security and auditability matter more than skill count. Regulated environments.
+**[NanoClaw](https://github.com/qwibitai/nanoclaw) ⭐ 30,708 | 🐛 1,093 | 🌐 TypeScript | 📅 2026-09-06** — Python, mandatory container isolation, \~700 lines (auditable in an afternoon). Choose when: security and auditability matter more than skill count. Regulated environments.
 
-**[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) ⭐ 32,732 | 🐛 795 | 🌐 Rust | 📅 2026-09-05** — Rust, 3.4MB binary, <10ms startup, 7.8MB RAM (194× smaller than OC), direct OpenClaw config import, 22+ providers. Choose when: resource efficiency matters, or you want a migration path from OpenClaw.
+**[ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) ⭐ 32,734 | 🐛 781 | 🌐 Rust | 📅 2026-09-06** — Rust, 3.4MB binary, <10ms startup, 7.8MB RAM (194× smaller than OC), direct OpenClaw config import, 22+ providers. Choose when: resource efficiency matters, or you want a migration path from OpenClaw.
 
-**[Moltis](https://github.com/moltis-org/moltis) ⭐ 2,845 | 🐛 86 | 🌐 Rust | 📅 2026-09-02** — A trusted Rust-native Claw. One binary — sandboxed, secure, auditable. Built-in voice, memory, MCP tools and multi-channel access. Choose when: your team needs a trustworthy enterprise-grade Rust implementation.
+**[Moltis](https://github.com/moltis-org/moltis) ⭐ 2,847 | 🐛 87 | 🌐 Rust | 📅 2026-09-02** — A trusted Rust-native Claw. One binary — sandboxed, secure, auditable. Built-in voice, memory, MCP tools and multi-channel access. Choose when: your team needs a trustworthy enterprise-grade Rust implementation.
 
-**[PicoClaw](https://github.com/sipeed/picoclaw) ⭐ 29,936 | 🐛 47 | 🌐 Go | 📅 2026-09-03** — Go, <10MB RAM, 1-second startup, targets $10 RISC-V hardware. Choose when: IoT, home automation, embedded Linux, cheapest possible hardware.
+**[PicoClaw](https://github.com/sipeed/picoclaw) ⭐ 29,942 | 🐛 46 | 🌐 Go | 📅 2026-09-03** — Go, <10MB RAM, 1-second startup, targets $10 RISC-V hardware. Choose when: IoT, home automation, embedded Linux, cheapest possible hardware.
 
-**[Nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,723 | 🐛 765 | 🌐 Python | 📅 2026-09-04** — Python, \~4,000 lines, maximum readability, MCP-only tools. Choose when: learning agent internals, prototyping architectures, academic research.
+**[Nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,740 | 🐛 770 | 🌐 Python | 📅 2026-09-06** — Python, \~4,000 lines, maximum readability, MCP-only tools. Choose when: learning agent internals, prototyping architectures, academic research.
 
-**[NullClaw](https://github.com/nullclaw/nullclaw) ⭐ 8,066 | 🐛 93 | 🌐 Zig | 📅 2026-07-19** — Zig, 1MB RAM, 678KB binary. Choose when: absolute minimal footprint, microcontroller-adjacent.
+**[NullClaw](https://github.com/nullclaw/nullclaw) ⭐ 8,066 | 🐛 94 | 🌐 Zig | 📅 2026-07-19** — Zig, 1MB RAM, 678KB binary. Choose when: absolute minimal footprint, microcontroller-adjacent.
 
 | Project                                                                                        | Language | Key Idea                               |
 | ---------------------------------------------------------------------------------------------- | -------- | -------------------------------------- |
 | [ClawGo](https://github.com/openclaw/clawgo) ⭐ 86 \| 🐛 5 \| 🌐 Go \| 📅 2026-08-31            | Go       | Headless, voice + text, embedded Linux |
-| [MimiClaw](https://github.com/memovai/mimiclaw) ⭐ 5,741 \| 🐛 112 \| 🌐 C \| 📅 2026-08-21     | C        | ESP32 microcontroller version          |
+| [MimiClaw](https://github.com/memovai/mimiclaw) ⭐ 5,745 \| 🐛 112 \| 🌐 C \| 📅 2026-08-21     | C        | ESP32 microcontroller version          |
 | [Carapace](https://github.com/carapace-sh/carapace) ⭐ 1,433 \| 🐛 50 \| 🌐 Go \| 📅 2026-09-04 | Various  | Governance/compliance first            |
 
 ***
@@ -999,7 +999,7 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 
 * [OWASP Agentic Security Initiative](https://genai.owasp.org/initiatives/agentic-security-initiative/) — OpenClaw used as reference implementation for ASI Top 10
 * [MITRE ATLAS](https://atlas.mitre.org) — Globally accessible, continuously updated knowledge base of adversarial tactics and techniques against AI systems, based on real-world attack observations from AI red teams and security groups; SecureClaw includes formal MITRE ATLAS mappings
-* [Nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,723 | 🐛 765 | 🌐 Python | 📅 2026-09-04 — Best platform for studying agent internals; easy to instrument
+* [Nanobot](https://github.com/HKUDS/nanobot) ⭐ 47,740 | 🐛 770 | 🌐 Python | 📅 2026-09-06 — Best platform for studying agent internals; easy to instrument
 
 ***
 
@@ -1184,7 +1184,7 @@ zeroclaw migrate --from ~/.openclaw
 
 | Channel                                                                                                              | Description                                              |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [GitHub Issues](https://github.com/openclaw/openclaw/issues) ⭐ 388,913 \| 🐛 6,228 \| 🌐 TypeScript \| 📅 2026-09-05 | Bug reports, feature feedback, CVE disclosures           |
+| [GitHub Issues](https://github.com/openclaw/openclaw/issues) ⭐ 388,999 \| 🐛 6,255 \| 🌐 TypeScript \| 📅 2026-09-06 | Bug reports, feature feedback, CVE disclosures           |
 | [Discord](https://discord.gg/openclaw)                                                                               | Real-time help; #skills, #deployment, #security channels |
 | [X / Twitter](https://x.com/openclaw)                                                                                | News, tips, community highlights                         |
 
@@ -1209,13 +1209,13 @@ zeroclaw migrate --from ~/.openclaw
 
 | List                                                                                                                                 | Scope                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
-| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,389 \| 🐛 2 \| 📅 2026-09-05          | 5,400+ curated skills — the specialized skills index |
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,400 \| 🐛 4 \| 📅 2026-09-05          | 5,400+ curated skills — the specialized skills index |
 | [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ⭐ 31,673 \| 🐛 78 \| 📅 2026-03-24 | Real-world use cases by domain                       |
 | [vincentkoc/awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) ⭐ 144 \| 🐛 60 \| 📅 2026-04-20                        | General community list                               |
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 94,221 \| 🐛 3,902 \| 📅 2026-09-01                         | Full MCP ecosystem                                   |
-| [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,890 \| 🐛 994 \| 📅 2026-08-21                                | Broader AI agent landscape                           |
-| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,119 \| 🐛 7 \| 🌐 Python \| 📅 2026-09-02                 | LLM application patterns                             |
-| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 317,232 \| 🐛 0 \| 📅 2026-09-05                    | Self-hosting ecosystem                               |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 94,377 \| 🐛 3,966 \| 📅 2026-09-01                         | Full MCP ecosystem                                   |
+| [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 29,898 \| 🐛 996 \| 📅 2026-08-21                                | Broader AI agent landscape                           |
+| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 136,308 \| 🐛 9 \| 🌐 Python \| 📅 2026-09-02                 | LLM application patterns                             |
+| [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 317,421 \| 🐛 0 \| 📅 2026-09-05                    | Self-hosting ecosystem                               |
 
 ***
 
@@ -1250,4 +1250,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide and [CODE\_OF\_CONDUCT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
