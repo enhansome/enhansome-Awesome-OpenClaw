@@ -888,6 +888,7 @@ n8n is a visual workflow automation tool for non-technical users. OpenClaw is a 
 | Tool                                                                                                                  | Description                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | [openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) ⭐ 701 \| 🐛 6 \| 🌐 HTML \| 📅 2026-03-17 | Secure real-time monitoring dashboard with authentication, TOTP MFA, cost tracking, live data streaming and memory browser |
+| [openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐ 12 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-05-14 | Free open-source monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trend charts, multi-model support. Vue 3 + ECharts |
 | [cost-tracker skill](https://clawhub.ai/community/cost-tracker)                                                       | Per-conversation API cost tracking with budget alerts                                                                      |
 
 ### Cost Optimization
